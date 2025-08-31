@@ -1,0 +1,12 @@
+yarn run v1.22.22
+$ medusa build && ln -s .medusa/server/public/ public
+[32minfo[39m:    Starting build...
+[32minfo[39m:    Compiling backend source...
+[32minfo[39m:    Removing existing ".medusa\server" folder
+[32minfo[39m:    Compiling frontend source...
+[32minfo[39m:    Backend build completed successfully (46.89s)
+[32minfo[39m:    Frontend build completed successfully (98.45s)
+'ln' is not recognized as an internal or external command,
+operable program or batch file.
+error Command failed with exit code 1.
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
